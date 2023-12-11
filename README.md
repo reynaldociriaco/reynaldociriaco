@@ -2,13 +2,13 @@
 
 ## About Me
 
-Hello! I'm Reynaldo E. Ciriaco, a BSIT student at New Era University. I know basic coding, but not that well because I'm more focused and I know more about web design, databases, and networking. I enjoy taking on tricky problems and coming up with elegant solutions. I enrolled in the BS in Information Technology program, which marked the beginning of my tech career.
+Hello! I'm Reynaldo E. Ciriaco Jr, a BSIT student at New Era University. I know basic coding, but not that well because I'm more focused and I know more about web design, databases, and networking. I enjoy taking on tricky problems and coming up with elegant solutions. I enrolled in the BS in Information Technology program, which marked the beginning of my tech career.
 
 ## Education
 
 - **BS Information Technology**
   New Era University
-  2021-Present
+  2020-Present
 
 ## Certification
 
