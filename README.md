@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Juan Dela Cruz, a passionate coder with strong database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in the tech world began when I enrolled in the BS Information Technology program.
+Hello! I'm Reynaldo E. Ciriaco, a BSIT student at New Era University. I know basic coding, but not that well because I'm more focused and I know more about web design, databases, and networking. I enjoy taking on tricky problems and coming up with elegant solutions. I enrolled in the BS in Information Technology program, which marked the beginning of my tech career.
 
 ## Education
 
