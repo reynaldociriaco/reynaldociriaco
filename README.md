@@ -7,8 +7,8 @@ Hello! I'm Reynaldo E. Ciriaco Jr, a BSIT student at New Era University. I know 
 ## Education
 
 - **BS Information Technology**
-  New Era University
-  2020-Present
+- New Era University
+- 2020-Present
 
 ## Certification
 
